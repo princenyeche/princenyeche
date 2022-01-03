@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working on [jiraone](https://github.com/princenyeche/atlassian-cloud-api) and [BOP](https://github.com/princenyeche/BOP) and some other cool opensource programs all in python.
+- 🌱 I’m currently learning swift as I want to build iOS apps.
+- 💬 Ask me about Atlassian stuff as I'm a cerified expert.
+- 📫 How to reach me: support@elfapp.website
+- ⚡ Fun fact: I love programming in python and I create scripts often that helps automate other stuff.
