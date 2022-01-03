@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Prince
+### Hi there 👋
 
 <!--
 **princenyeche/princenyeche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on [jiraone](https://github.com/princenyeche/atlassian-cloud-api) and [BOP](https://github.com/princenyeche/BOP) and some other cool opensource programs all in python.
+- 🔭 I'm currently working on some opensource programs all in python. 
 - 🌱 I’m currently learning swift as I want to build iOS apps.
-- 💬 Ask me about Atlassian stuff as I'm a cerified expert.
+- 💬 Ask me about **Atlassian** stuff as I'm a cerified expert.
 - 📫 How to reach me: support@elfapp.website
 - ⚡ Fun fact: I love programming in python and I create scripts often that helps automate other stuff.
+
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princenyeche&show_icons=true&theme=default)
+
+
+### Tools that I've made
+[jiraone](https://github.com/princenyeche/atlassian-cloud-api) is REST API implementation of Jira API for creating reports and performing other API related task.<br />
+[BOP](https://github.com/princenyeche/BOP) is Jira cloud addon for user and group management.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princenyeche&layout=compact)](https://github.com/princenyeche)
