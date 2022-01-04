@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ### Tools that I've made
-[jiraone](https://github.com/princenyeche/atlassian-cloud-api) is REST API implementation of Jira API for creating reports and performing other API related task.<br />
+[jiraone](https://github.com/princenyeche/jiraone) is REST API implementation of Jira API for creating reports and performing other API related task.<br />
 [BOP](https://github.com/princenyeche/BOP) is Jira cloud addon for user and group management.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princenyeche&layout=compact)](https://github.com/princenyeche)
