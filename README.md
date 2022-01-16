@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on some opensource programs all in python. 
+- 🔭 I'm currently working on some opensource projects, all in python. 
 - 🌱 I’m currently learning swift as I want to build iOS apps.
 - 💬 Ask me about **Atlassian** stuff as I'm a cerified expert.
 - 📫 How to reach me: support@elfapp.website
