@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 ### Tools that I've made
 [jiraone](https://github.com/princenyeche/jiraone) is REST API implementation of Jira API for creating reports and performing other API related task.<br />
 [BOP](https://github.com/princenyeche/BOP) is Jira cloud addon for user and group management.
+[mistyfy](https://github.com/princenyeche/mistyfy) A package that helps encrypts strings and returns an encrypted version of it. Customize your own cipher and encode your data the way you like it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princenyeche&layout=compact)](https://github.com/princenyeche)
