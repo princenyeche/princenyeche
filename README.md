@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm working on some opensource projects, written mostly in python. 
 - 🌱 I’m currently learning swift to build iOS apps.
-- 💬 Ask me about **Atlassian** stuff as I'm a cerified expert.
+- 💬 Ask me about **Atlassian** stuff as I'm a certified expert.
 - 📫 How to reach me: support@elfapp.website
 - ⚡ Fun fact: I love programming in python and I create scripts often that helps automate other stuff.
 
