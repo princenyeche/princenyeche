@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm working on some opensource projects, written mostly in python. 
-- 🌱 I’m currently learning swift to build iOS apps.
+- 🔭 I'm working on some opensource projects, written mostly in Python. 
+- 🌱 I’m currently learning Swift to build iOS apps. I'm also re-igniting my previous knowledge on Javascript. Focusing more on React.
 - 💬 Ask me about **Atlassian** stuff as I'm a certified expert.
 - 📫 How to reach me: support@elfapp.website
-- ⚡ Fun fact: I love programming in python and I create scripts often that helps automate other stuff.
+- ⚡ Fun fact: I love programming in Python and I create scripts often that helps automate other stuff.
 
 ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princenyeche&show_icons=true&theme=default)
 
