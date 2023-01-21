@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 [mistyfy](https://github.com/princenyeche/mistyfy) A package that helps encrypts strings and returns an encrypted version of it. Customize your own cipher and encode your data the way you like it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princenyeche&layout=compact)](https://github.com/princenyeche)
+
+<p align="center"> 
+  Visitor count<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=princenyeche" alt="Visitor badge" />
+  </p>
