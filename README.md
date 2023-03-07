@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm working on some opensource projects, written mostly in Python. 
 - 🌱 Using Javascript to build fast web apps (Node.js and react).
-- 💬 Ask me about **Atlassian** stuff as I'm a certified expert.
+- 💬 Ask me about **Atlassian** stuff as I am a certified expert.
 - 📫 How to reach me: support@elfapp.website
 - ⚡ Fun fact: I love programming in Python and I create scripts often that helps automate other stuff.
 
