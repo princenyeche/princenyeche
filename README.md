@@ -31,7 +31,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princenyeche&layout=compact)](https://github.com/princenyeche)
 
-<p align="center"> 
-  Visitor count<br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=princenyeche" alt="Visitor badge" />
-  </p>
+  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fprincenyeche&countColor=%2337d67a&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fprincenyeche)
+ 
