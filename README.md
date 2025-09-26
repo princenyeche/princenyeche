@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I'm working on some opensource projects, written mostly in Python. 
 - 🌱 Using Javascript to build fast web apps (Node.js and react).
+- 🤔 Currently learning [Go lang](https://go.dev/doc/tutorial/create-module)
+- 🤖 Currently learning Neural Networks and Deep Learning
 - 💬 Ask me about integrating apps or building custom APIs
 - 📫 How to reach me: [support[at]elfapp.website](mailto:support%40elfapp.website) for consulting purposes or reporting a security issue. Any questions should be posted on the respective repo issue.
 - ⚡ Fun fact: I love programming in Python and I create scripts often that helps automate other stuff.
