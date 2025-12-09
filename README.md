@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm working on some open-source projects, written mostly in Python. 
 - 🌱 Using JavaScript/TypeScript to build fast web apps (Node.js and React).
-- 🤖 Building AI-powered apps and AI agents into your workflow.
+- 🤖 Building AI-powered apps and AI agents.
 - 🤔 Currently learning [Go lang](https://go.dev/doc/tutorial/create-module) for microservices implementation.
 - 💬 Ask me about integrating apps or building custom APIs
 - 📫 How to reach me: [support[at]elfapp.website](mailto:support%40elfapp.website) for consulting purposes or reporting a security issue. Any questions should be posted on the respective repo issue.
